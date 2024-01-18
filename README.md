@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fhenry&show_icons=true&theme=tokyonight" />-->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FHenry&theme=tokyonight" />
+  <!--<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FHenry&theme=tokyonight" />-->
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=FHenry&show_icons=true&theme=dark)](https://github.com/FHenry)
 </p>
